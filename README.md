@@ -6,7 +6,6 @@ To answer some of these questions, we will do observational study based on a sur
 First of all we will define a health variable in order to represent the current health status of each person. The health variable is based on 17 health relation questions such as physical ability, ability to hear and see, frequency of pain and fatigue and the level of depression. Adequate normalized weight has been assigned to each of these variables. The maximum score of 17 represents a person completely healthy based on the studied health problems.
 
 ![GitHub Logo](/img/histogram.png)
-Format: ![Alt Text](url)
 
 ## House Problems vs health score
 
