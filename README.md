@@ -18,3 +18,6 @@ In following four figures we present the relation between four house variables a
 ## Cell phone availability vs health
 
 ## Linear regression
+
+## The team
+![The team](/img/avatars.png)
